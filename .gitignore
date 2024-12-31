@@ -2,9 +2,6 @@
 __pycache__/
 
 statics/
-protos/
-!protos/*.proto
-!protos/__init__.py
 
 .coverage
 htmlcov/
@@ -12,5 +9,3 @@ htmlcov/
 .vscode/*
 
 .env
-
-venv
