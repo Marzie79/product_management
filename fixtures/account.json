@@ -1,0 +1,22 @@
+[
+    {
+        "model": "authentications.account",
+        "pk": 1,
+        "fields": {
+            "password": "password",
+            "email": "test@gmail.com",
+            "user_type": 2,
+            "date_joined": "2024-10-19T13:05:48.746915Z"
+        }
+    },
+    {
+        "model": "authentications.account",
+        "pk": 2,
+        "fields": {
+            "password": "password",
+            "email": "manager@gmail.com",
+            "user_type": 3,
+            "date_joined": "2024-10-20T13:05:48.746915Z"
+        }
+    }
+]

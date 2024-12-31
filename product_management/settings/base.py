@@ -151,3 +151,7 @@ SWAGGER_SETTINGS = {
         }
     }
 }
+
+FIXTURE_DIRS = [
+    os.path.join(BASE_DIR, 'fixtures')
+]
